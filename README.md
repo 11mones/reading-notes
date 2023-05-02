@@ -40,6 +40,13 @@ I am learning web development now in python language, still in the begining, so 
    
    
   -*[The Growth mindset]( https://github.com/11mones/reading-notes/blob/main/Growth%20mindset.md)*
+  
+  
+  
+  -*[Reading class](https://github.com/11mones/reading-notes/blob/main/Reading%20class.md)*
+  
+  
+  
 
 
 
