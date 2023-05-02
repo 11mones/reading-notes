@@ -36,6 +36,10 @@ I am learning web development now in python language, still in the begining, so 
    
    
    -*[Data structure and algorithim](https://github.com/11mones/reading-notes/blob/main/Data%20structure%20and%20algo.md)*
+   
+   
+   
+  -*[The Growth mindset]( https://github.com/11mones/reading-notes/blob/main/Growth%20mindset.md)*
 
 
 
