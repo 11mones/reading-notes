@@ -27,3 +27,15 @@ I am learning web development now in python language, still in the begining, so 
 
 
 
+   -*[SQL](https://github.com/11mones/reading-notes/blob/main/SQL.md)*
+   
+   
+   
+   -*[Engineering Reading](https://github.com/11mones/reading-notes/blob/main/Engineer%20reading.md)*
+   
+   
+   
+   -*[Data structure and algorithim](https://github.com/11mones/reading-notes/blob/main/Data%20structure%20and%20algo.md)*
+
+
+
