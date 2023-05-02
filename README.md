@@ -22,6 +22,13 @@ I have learned how to implement the frontend for your website, some of the tevhn
    - *Javascript*
    - *React js*
    - *Bootstrap*
-## Amman Anvanced-course : Web development in Python and Django.
+## Amman Advanced-course : Web development in Python and Django.
+I am learning web development now in python language, still in the begining, so here is some topics that i have learned so far:
+
+
+**-Relational database and SQL.**
+
+
+I have learned the basic sql statements, and now i know how to handle the data that in the tables of the database, i know how to show them, alter them, and delete them also, and many things that will be helpful during earning web development.
 
 
