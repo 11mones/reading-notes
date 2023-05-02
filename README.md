@@ -29,7 +29,13 @@ I am learning web development now in python language, still in the begining, so 
 **-Relational database and SQL.**
 
 
-![1](https://user-images.githubusercontent.com/72322641/235557275-a01ae675-4c24-4dc6-8b3b-95ad53446a6a.png)
+
 I have learned the basic sql statements, and now i know how to handle the data that in the tables of the database, i know how to show them, alter them, and delete them also, and many things that will be helpful during earning web development.
+
+### And here is the things that i have learned in sql : 
+
+
+![18](https://user-images.githubusercontent.com/72322641/235557458-bb6a577d-b2bc-45b6-91be-86d14f7a41bc.png)
+
 
 
