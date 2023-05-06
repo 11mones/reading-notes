@@ -55,7 +55,12 @@ I am learning web development now in python language, still in the begining, so 
   
   
   
-  -*[Testing and modules](  https://github.com/11mones/reading-notes/blob/main/Testing%20and%20Modules.md)*
+  -*[Python Exception Handling](  https://github.com/11mones/reading-notes/edit/main/FileIO%20%26%20Exceptions.md)*
+  
+  
+  
+  
+  
   
   
   
