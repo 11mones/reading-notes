@@ -1,59 +1,40 @@
-# Testing and modules
+# FileIO & Exceptions
 
-## TDD (Test Driven Development)
-**Definition :** is software development approach in which test cases are developed to specify and validate what the code will do. In simple terms, test cases
-for each functionality are created and tested first and if the test fails then the new code is written in order to pass the test and making code simple
-and bug-free.
+## What is the use of the WITH statement in Python?
+In Python, the with statement replaces a try-catch block with a concise shorthand.
 
 
 
-It starts with creating the test cases that we want first, and then we write our code, and test it through these test cases, and if the code did not passed
-the cases, then we have to keep editing our code until iy oasses all the tests.
+**It ensures closing resources right after processing them.** A common example of using the with statement is reading or writing to a file. A function or class that supports the with statement is known as a context manager
 
 
 
-## if __ name __ == '__main__' statement in Python :
-**Short definition :** It allows You to execute code when the file runs as a script, but not when it’s imported as a module.
+## Defference between read() and readline()
+The read() will read the whole file at once and then print out the first characters that take up as many bytes as you specify in the parenthesis versus the readline() that will read and print out only the first characters that take up as many bytes as you specify in the parenthesis.
 
 
 
 
-For most practical purposes, you can think of the conditional block that you open with if __ name __ == "__ main __ " as a way to store code that should only
-run when your file is executed as a script.
+
+
+## Python Exception Handling : 
+We use the try...except block to handle exceptions in Python.
 
 
 
-## Concept recursion in python : 
-**Defintion :** A recursive function is a function defined in terms of itself via self-referential expressions.
+Here's the syntax of try...except block:
 
 
 
-This means that the function will continue to call itself and repeat its behavior until some condition is met to return a result. All recursive functions share
-a common structure made up of two parts: base case and recursive case.
+        try:
+    # code that may cause exception
+        except:
+    # code to run when exception occurs
 
 
 
+### Explanitaion 
+Here, we have placed the code that might generate an exception inside the try block. Every try block is followed by an except block.
 
-## Difference between a module and a package in Python
-The main difference between a module and a package in Python is that a module is a simple Python script with a .py extension file that contains collections
-of functions and global variables. In contrast, a package is a directory that contains a collection of modules, and this directory also contains
-an __ init __ .py file by which the interpreter interprets it as a package.
-
-### Building a module 
-This is how you build a module : 
-
-
-
-    def module_function(para):
-
-        print("Creating a new Module: " + para)
-
-
-
-### Importing packages 
-To import a package, we type the following:
-
-
-
-    import math 
+When an exception occurs, it is caught by the except block. The except block cannot be used without the try block.
 
