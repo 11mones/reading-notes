@@ -55,7 +55,7 @@ I am learning web development now in python language, still in the begining, so 
   
   
   
-  -*[Python Exception Handling](  https://github.com/11mones/reading-notes/edit/main/FileIO%20%26%20Exceptions.md)*
+  -*[FileIO & Exceptions](  https://github.com/11mones/reading-notes/edit/main/FileIO%20%26%20Exceptions.md)*
   
   
   
