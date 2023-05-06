@@ -34,7 +34,7 @@ a common structure made up of two parts: base case and recursive case.
 
 
 
-##
+## Difference between a module and a package in Python
 The main difference between a module and a package in Python is that a module is a simple Python script with a .py extension file that contains collections
 of functions and global variables. In contrast, a package is a directory that contains a collection of modules, and this directory also contains
 an __ init __ .py file by which the interpreter interprets it as a package.
