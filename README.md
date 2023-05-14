@@ -60,6 +60,11 @@ I am learning web development now in python language, still in the begining, so 
   
   
    -*[Topic](  https://github.com/11mones/reading-notes/blob/main/Topic.md)*
+   
+   
+    -*[Ten Thousand Game 1]( https://github.com/11mones/reading-notes/blob/main/Ten%20Thousand%20Game%201.md)*
+   
+   
   
   
   
