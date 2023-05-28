@@ -69,6 +69,13 @@ I am learning web development now in python language, still in the begining, so 
    
    -*[Ten thousand Game 3](https://github.com/11mones/reading-notes/blob/main/Ten%20Thousand%202.md)*
    
+   -*[Ten thousand Game 4]( https://github.com/11mones/reading-notes/blob/main/Ten%20Thousand%204.md)*
+   
+   -*[Data Analysis](https://github.com/11mones/reading-notes/blob/main/Data%20Analysis.md)*
+   
+   
+  
+   
    
    
    
