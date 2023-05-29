@@ -73,6 +73,10 @@ I am learning web development now in python language, still in the begining, so 
    
    -*[Data Analysis](https://github.com/11mones/reading-notes/blob/main/Data%20Analysis.md)*
    
+   -*[Panadas library](   https://github.com/11mones/reading-notes/blob/main/Pandas%20in%2010.md)*
+   
+
+   
    
   
    
