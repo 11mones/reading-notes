@@ -75,6 +75,11 @@ I am learning web development now in python language, still in the begining, so 
    
    -*[Panadas library](   https://github.com/11mones/reading-notes/blob/main/Pandas%20in%2010.md)*
    
+   -*[Linear Regressions](https://github.com/11mones/reading-notes/blob/main/Linear%20Regressions.md)*
+   
+   
+   
+   
 
    
    
