@@ -77,6 +77,10 @@ I am learning web development now in python language, still in the begining, so 
    
    -*[Linear Regressions](https://github.com/11mones/reading-notes/blob/main/Linear%20Regressions.md)*
    
+   -*[Data visualisation](https://github.com/11mones/reading-notes/blob/main/Data%20visualisation.md)*
+   
+   
+
    
    
    
