@@ -88,6 +88,10 @@ I am learning web development now in python language, still in the begining, so 
    
    -*[Web scrapping](https://github.com/11mones/reading-notes/blob/main/Web%20scrapping.md)*
 
+ -*[Intro to Django](https://github.com/11mones/reading-notes/blob/main/Intro%20to%20Django.md)*
+
+   
+
    
    
    
