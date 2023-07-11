@@ -90,6 +90,9 @@ I am learning web development now in python language, still in the begining, so 
 
  -*[Intro to Django](https://github.com/11mones/reading-notes/blob/main/Intro%20to%20Django.md)*
 
+
+-*[Django Models]( https://github.com/11mones/reading-notes/blob/main/Django%20Models.md)*
+
    
 
    
