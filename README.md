@@ -93,6 +93,10 @@ I am learning web development now in python language, still in the begining, so 
 
 -*[Django Models]( https://github.com/11mones/reading-notes/blob/main/Django%20Models.md)*
 
+
+
+-*[Django Forms](https://github.com/11mones/reading-notes/blob/main/Django%20forms.md)*
+
    
 
    
