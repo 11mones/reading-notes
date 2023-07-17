@@ -97,6 +97,14 @@ I am learning web development now in python language, still in the begining, so 
 
 -*[Django Forms](https://github.com/11mones/reading-notes/blob/main/Django%20forms.md)*
 
+
+-*[Django custom user model](https://github.com/11mones/reading-notes/blob/main/Django%20custom%20user.md)*
+
+
+
+
+
+
    
 
    
