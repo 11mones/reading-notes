@@ -101,6 +101,10 @@ I am learning web development now in python language, still in the begining, so 
 -*[Django custom user model](https://github.com/11mones/reading-notes/blob/main/Django%20custom%20user.md)*
 
 
+-*[Hash tables](https://github.com/11mones/reading-notes/blob/main/Hash%20tables.md)*
+
+
+
 
 
 
