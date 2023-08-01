@@ -111,6 +111,10 @@ I am learning web development now in python language, still in the begining, so 
 -*[Premissions & Postgresql](https://github.com/11mones/reading-notes/blob/main/Permissions%20%26%20Postgresql.md)*
 
 
+-*[API deployment](https://github.com/11mones/reading-notes/blob/main/API%20Deployment.md)*
+
+
+
 
 
 
