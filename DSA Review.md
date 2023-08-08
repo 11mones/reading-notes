@@ -1,34 +1,34 @@
 
-# Advises for the interview 
+# Advices for the interview 
 
 * Take a few minutes to think: After the interviewer explains the problem, take a moment to gather your thoughts and formulate a strategy before
-*  jumping into solving the problem. Avoid trying to fill the silence with talking while simultaneously trying to think.
+jumping into solving the problem. Avoid trying to fill the silence with talking while simultaneously trying to think.
 
 * Write down the steps of the solution: Before writing actual code, jot down the general steps of your solution on the whiteboard.
-*  This helps you organize your thoughts and ensures you have a clear plan before diving into coding.
+This helps you organize your thoughts and ensures you have a clear plan before diving into coding.
 
 * Write pseudocode first: Rather than immediately writing code, start with pseudocode that outlines the structure and logic of your solution.
-*  This allows you to focus on the problem-solving approach without worrying about syntax.
+This allows you to focus on the problem-solving approach without worrying about syntax.
 
 * Don’t sweat the small stuff: Remember that the interview isn't just about perfect syntax or remembering every detail.
-*  Focus on demonstrating your problem-solving skills, depth of knowledge, and ability to communicate your thoughts effectively.
+  Focus on demonstrating your problem-solving skills, depth of knowledge, and ability to communicate your thoughts effectively.
 
 * Communicate clearly: Restate the problem to confirm your understanding, ask about edge cases, inquire about test cases,
-*  and discuss your pseudocode with the interviewer. Communication is key to demonstrating your analytical thinking and collaboration skills.
+  and discuss your pseudocode with the interviewer. Communication is key to demonstrating your analytical thinking and collaboration skills.
 
 * Ask for help when needed: If you encounter difficulties, it's okay to ask for hints or guidance from the interviewer.
-*  Phrasing your request conversationally can show your willingness to learn and adapt.
+  Phrasing your request conversationally can show your willingness to learn and adapt.
 
 * Review your work: If you have extra time after solving a problem, review your code and logic. Focus on algorithmic efficiency and correctness, and ensure you've considered edge cases and potential bugs.
 
 * Come prepared: Put in the time to prepare for interviews by practicing coding problems, understanding data structures and algorithms,
-*  and refining your problem-solving skills. Being well-prepared boosts your confidence and performance during the interview.
+  and refining your problem-solving skills. Being well-prepared boosts your confidence and performance during the interview.
 
 * Sit down and be humble: Beyond technical skills, showcase qualities like clear communication, respect for the interviewer,
-* willingness to collaborate, empathy, and the ability to accept feedback gracefully.
+willingness to collaborate, empathy, and the ability to accept feedback gracefully.
 
 * Communicate prior to the interview: If possible, communicate with the interview point of contact to gather information about the interview
-*  format, style, and any specific areas to prepare for. This can help you tailor your preparation.
+  format, style, and any specific areas to prepare for. This can help you tailor your preparation.
 
 **Overall, the main theme of the advice is to emphasize communication, thoughtful problem-solving, and a calm, collaborative approach to
 whiteboard interviews.**
