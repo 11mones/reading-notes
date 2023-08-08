@@ -113,7 +113,6 @@ I am learning web development now in python language, still in the begining, so 
 
 -*[API deployment](https://github.com/11mones/reading-notes/blob/main/API%20Deployment.md)*
 
-
 -*[DSA Review](https://github.com/11mones/reading-notes/edit/main/DSA%20Review.md)*
 
 
