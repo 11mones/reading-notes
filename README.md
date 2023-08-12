@@ -121,6 +121,12 @@ I am learning web development now in python language, still in the begining, so 
 
 
 
+-*[Ract 1](https://github.com/11mones/reading-notes/blob/main/Ract%201.md)*
+
+
+
+
+
 
 
 
