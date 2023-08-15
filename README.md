@@ -125,6 +125,12 @@ I am learning web development now in python language, still in the begining, so 
 
 
 
+-*[Ract 2](https://github.com/11mones/reading-notes/blob/main/React%202.md)*
+
+
+
+
+
 
 
 
